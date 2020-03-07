@@ -1,2 +1,3 @@
-this is sample file, first created
 
+this is sample file, first created
+this is conflict updated from local machine
