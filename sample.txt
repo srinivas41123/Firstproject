@@ -1,3 +1,9 @@
 
+
 this is sample file, first created
 this is conflict updated from local machine
+
+this is sample file, first created
+conflict test
+test
+
